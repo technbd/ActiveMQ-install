@@ -118,6 +118,11 @@ wget https://downloads.apache.org/activemq/5.19.1/apache-activemq-5.19.1-bin.tar
 Or,
 
 wget https://downloads.apache.org/activemq/6.1.8/apache-activemq-6.1.8-bin.tar.gz
+
+
+### Archive Distribution:
+
+wget https://archive.apache.org/dist/activemq/5.18.7/apache-activemq-5.18.7-bin.tar.gz
 ```
 
 
@@ -216,8 +221,8 @@ Open your browser: `http://<server-ip>:8161/admin`
 
 
 **Default credentials:**
-    - Username: admin
-    - Password: admin
+- Username: admin
+- Password: admin
 
 
 
@@ -226,4 +231,4 @@ Open your browser: `http://<server-ip>:8161/admin`
 
 ### Ref: 
 - [Download ActiveMQ Classic](https://activemq.apache.org/components/classic/download/)
-
+- [ActiveMQ Archive Distribution](https://archive.apache.org/dist/activemq/)
